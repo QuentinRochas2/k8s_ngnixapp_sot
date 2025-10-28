@@ -3,6 +3,6 @@ kind: Kustomization
 metadata :
   name: fluxcdkustomization
   namespace: fluxcdtutorial
-  resources:
+resources:
   - deployment.yaml
   - service.yaml
