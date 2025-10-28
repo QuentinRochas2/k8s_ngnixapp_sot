@@ -8,4 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/QuentinRochas2/k8s_nginxapp_sot.git
+  url: https://github.com/QuentinRochas2/k8s_ngnixapp_sot.git
